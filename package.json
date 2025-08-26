@@ -1,0 +1,11 @@
+{
+  "name": "mid-term",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Siwasith/mid-term.git",
+  "author": "MePooh <sivasith@odds.team>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
